@@ -4,6 +4,11 @@
       "source": "/obol/:path*",
       "destination": "https://demo.obol.jacobtartabini.com/:path*",
       "permanent": false
+    },
+    {
+      "source": "/aegis/:path*",
+      "destination": "https://demo.aegis.jacobtartabini.com/:path*",
+      "permanent": false
     }
   ]
 }

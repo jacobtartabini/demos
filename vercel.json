@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/obol/:path*",
+      "destination": "https://demo.obol.jacobtartabini.com/:path*"
+    }
+  ]
+}

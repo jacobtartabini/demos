@@ -9,6 +9,11 @@
       "source": "/aegis/:path*",
       "destination": "https://demo.aegis.jacobtartabini.com/:path*",
       "permanent": false
+    },
+    {
+      "source": "/brain/:path*",
+      "destination": "https://demo.brain.jacobtartabini.com/:path*",
+      "permanent": false
     }
   ]
 }
